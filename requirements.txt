@@ -1,0 +1,5 @@
+selenium
+langchain_openai
+textblob
+wordcloud
+deep_translator
