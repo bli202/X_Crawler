@@ -18,3 +18,10 @@ Make sure you have the following Python libraries installed:
 
 ```bash
 pip install selenium pandas re textblob wordcloud matplotlib deep-translator langchain_openai scikit-learn
+```
+
+##  SAMEPLE ANSWER AND SENTIMENT ANALYSIS
+
+[sentiment_analysis_summary_sample.txt](SentimentAnalysisX/answers_Jul05.txt)
+
+![Word Cloud](SentimentAnalysisX/wordcloud_Jul05.png)
